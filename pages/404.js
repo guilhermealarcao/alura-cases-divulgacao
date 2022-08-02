@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Link from "../src/components/Link";
 
 
