@@ -6,7 +6,7 @@ export default function HomePage() {
     return (
         <div>
             <Head>
-                <title>FAQ - Alura Cases Campanha</title>
+                <title>FAQ - Alura Cases Campanha </title>
             </Head>
             <h1>Alura cases - FAQ Page</h1>
             <Link href="/">
