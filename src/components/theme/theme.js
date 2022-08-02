@@ -113,7 +113,7 @@ export const theme = {
         }
     },
     typography: {
-        fontFamily: 'Open Sans',
+        fontFamily: 'Roboto',
         variants: {
             display1: {
                 fontSize: {
